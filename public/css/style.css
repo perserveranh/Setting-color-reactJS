@@ -1,0 +1,19 @@
+#card-color{
+	background-color: #0b46a5;
+}
+#card-size{
+	background-color: #0ed325;
+}
+#btn-reset{
+	margin-top: 2em;
+}
+.App{
+	padding-top: 3em;
+}
+#content{
+	border: 5px solid red ;
+
+	height:3em;
+	padding-top: 7px;
+	text-align: center;
+}
